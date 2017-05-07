@@ -15,8 +15,9 @@
 
 * There is two grids: FIELD (the model grid) and FIELDVIEW (the viewgrid) which are global variables.
 * Setup function produce the FIELDVIEW: it loads overlapping sprites (emptySprite, yellowSprite, redSprite) on each tile. 
-* LoopGame make the link between model and view. 
+* LoopGame function makes the link between model and view. 
 * Code is self documented to help you understand the model: I used a minimax algorithm.
+* Tokens were made on GIMP. 
 
 ## Do not hesitate to report bugs, thank you!
 
